@@ -18,7 +18,21 @@ module.exports = () => {
       path: path.resolve(__dirname, 'dist'),
     },
     plugins: [
-      
+      new HtmlWebpackPlugin({
+        template:'./src/index.html',
+        chunks:['main'],
+      }),
+      new HtmlWebpackPlugin({
+        template:'./src/index.html',
+        filename: 'install.html',
+        chunks:['install'],
+      }),
+      new WebpackPwaManifest({
+        name:'Just Another Text Editor',
+        
+
+      })
+
     ],
 
     module: {
