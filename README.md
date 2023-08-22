@@ -84,9 +84,14 @@ THEN I should see a client server folder structure
 Any questions about this project please send me a message on *https://github.com/fordefam12 or email me at [fordefam12@gmail.com]
 
 ## URL
+
+
   <p align='center'>
-<a href='https://github.com/fordefam12/PWA_TextEditor'><img src='././assets/qr-code.png' width="25%"></a>
+<a href='https://serene-sea-98817-31cd6b171e7f.herokuapp.com/'>CLICK QR CODE<img src='././assets/qr-code.png' width="25%"></a>
 </p>
+
+https://github.com/fordefam12/PWA_TextEditor
+
 
 ## Screenshots
 
