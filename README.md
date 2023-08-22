@@ -1,4 +1,3 @@
-
 # PWA_TextEditor
 
 <p align='center'>
@@ -6,23 +5,23 @@
 </p>
 ## Description
 
- The PWA text editor is designed as an online and offline platform for users to craft notes and code snippets. Regardless of their internet connection, users can seamlessly compose and store content, assured that their creations will be readily accessible in the future.
+The PWA text editor is designed as an online and offline platform for users to craft notes and code snippets. Regardless of their internet connection, users can seamlessly compose and store content, assured that their creations will be readily accessible in the future.
 
 ## Table of Contents
-*[Title](#title)
 
-*[Description](#description)
-    
-*[Installation](#installation)
-    
-*[Usage](#usage)
-    
-*[License](#license)
-    
-*[Questions](#questions)
+\*[Title](#title)
 
-*[URL](#URL)
-    
+\*[Description](#description)
+
+\*[Installation](#installation)
+
+\*[Usage](#usage)
+
+\*[License](#license)
+
+\*[Questions](#questions)
+
+\*[URL](#URL)
 
 ## Installation
 
@@ -34,64 +33,61 @@ Node Package Manager (npm) serves as a software manager and installer that place
 
 For the smooth functioning of this application, the following npm packages are employed:-
 
-* express (express.js)
+- express (express.js)
 
-* webpack (Webpack)
+- webpack (Webpack)
 
-* webpack-dev-server (webpack-dev-server)
+- webpack-dev-server (webpack-dev-server)
 
-* webpack-pwa-manifest (WebpackPwaManifest)
+- webpack-pwa-manifest (WebpackPwaManifest)
 
-* babel (Babel)
+- babel (Babel)
 
-* css-loader (CSS-loader)
+- css-loader (CSS-loader)
 
-* concurrently (Concurrently, used for running multiple commands concurrently)
+- concurrently (Concurrently, used for running multiple commands concurrently)
 
-* idb (IndexedDB)
-To integrate these necessary modules, simply bundle them within the package.json file. By entering the command npm run install in the command-line interface or integrated terminal, the required modules will be automatically installed.
+- idb (IndexedDB)
+
+
+  To integrate these necessary modules, simply bundle them within the package.json file. By entering the command npm run install in the command-line interface or integrated terminal, the required modules will be automatically installed.
 
 ## Usage
 
-``````  
-GIVEN a text editor web application, 
+```
+GIVEN a text editor web application,
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
-``````
-
+```
 
 ## License
+
 [![License: The_Unlicense](https://img.shields.io/badge/License-The_Unlicense-brightgreen.svg)](https://opensource.org/licenses/The_Unlicense)
-
-
-
 
 ## badges
 
 ![JavaScript:](https://img.shields.io/badge/JavaScript-64.9%25-blue)
-             ![HTML:](https://img.shields.io/badge/HTML-9.7%25-red)
-             ![CSS:](https://img.shields.io/badge/CSS-25.4%25-purple)
-
+![HTML:](https://img.shields.io/badge/HTML-9.7%25-red)
+![CSS:](https://img.shields.io/badge/CSS-25.4%25-purple)
 
 <p align='center'>
 <a><img src="https://github-readme-stats.vercel.app/api?username=fordefam12&show_icons=true&theme=transparent" alt="fordefam12's github stats"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fordefam12&layout=compact" height ="30%" width= "40%"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fordefam12&layout=compact" height ="30%" width= "25%"></a>
 </p>
 
-
-
 ## Questions
-Any questions about this project please send me a message on *https://github.com/fordefam12 or email me at [fordefam12@gmail.com]
+
+Any questions about this project please send me a message on \*https://github.com/fordefam12 or email me at [fordefam12@gmail.com]
 
 ## URL
 
-
   <p align='center'>
-<a href='https://serene-sea-98817-31cd6b171e7f.herokuapp.com/'>CLICK QR CODE<img src='././assets/qr-code.png' width="25%"></a>
+<a href='https://serene-sea-98817-31cd6b171e7f.herokuapp.com/'>
+CLICK QR CODE for deploy link
+<img src='././assets/qr-code.png' width="25%"></a>
 </p>
 
 https://github.com/fordefam12/PWA_TextEditor
-
 
 ## Screenshots
 
